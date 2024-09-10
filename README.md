@@ -44,4 +44,4 @@ INFERENCE_IMAGE_URI={ACCOUNT_ID}.dkr.ecr.{REGION}.amazonaws.com/lightgbm-breat-c
 
 ### Execute the model training, hosting and evaluation
 
-Run through JupyterNotebook [Hosting LightGBM Model using SageMaker Inference.ipynb](./Hosting%20LightGBM%20Model%20using%20SageMaker%20Inference.ipynb)
+Run through JupyterNotebook [Hosting LightGBM Model using SageMaker Inference.ipynb](./Hosting%20LightGBM%20Model%20using%20SageMaker%20Inference.ipynb) on a runtime with IAM permission that can access SageMaker default S3 bucket (or custom bucket), and using SageMaker Inference.
